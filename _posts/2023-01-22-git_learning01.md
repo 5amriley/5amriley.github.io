@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "2023/01/17 나만의 GitHub Pages를 개설하다"
+title: "2023/01/22 git에 대해 배우다"
 ---
 
 오늘은 git에 대해 공부하였다.
