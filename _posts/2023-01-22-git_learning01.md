@@ -64,9 +64,7 @@ git pull origin master
 git checkout 브랜치이름
 
 
-참고 :
-
-https://cocoon1787.tistory.com/723
+참고 :  https://cocoon1787.tistory.com/723
 https://hackmd.io/@oW_dDxdsRoSpl0M64Tfg2g/ByfwpNJ-K
 https://www.youtube.com/watch?v=lelVripbt2M
 https://www.youtube.com/watch?v=cwC8t9dno2s&t=0s
