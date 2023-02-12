@@ -31,7 +31,8 @@ git status
 4. 히스토리 만들기/설정(히스토리 : github에서 업데이트 항목에 관해 보여지는 설명. -m은 메세지를 뜻함)  
 git commit -m "nth commit"
 5. github repository랑 내 로컬 프로젝트랑 연결  
-git remote add origin http://github.com/5amriley/~~~  (이 주소는 github에서 복사해와야함. 마지막이 .git 꼴)
+git remote add origin http://github.com/5amriley/~~~  
+(이 http 주소는 github에서 복사해와야함. 마지막이 .git 꼴)
 6. 연결 상태 확인(선택사항)  
 git remote -v
 7. github로 업로드/푸시  
